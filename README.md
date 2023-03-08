@@ -6,7 +6,7 @@
 
 👉Passionate about Web Development, DSA, Blockchain and Cryptocurrency.
 
-👉More passionate about learning everything irrelevant to my core courses(like psychology📚, food🥗, health🧘 and lifestyle).
+👉More passionate about learning everything irrelevant to my core courses(like psychology📚, finance💸, food🥗, health🧘 and lifestyle).
 
 👉Experience in Web Development- HTML, CSS, Javascript and Bootstrap4.
 
