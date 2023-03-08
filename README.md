@@ -1,6 +1,6 @@
 # Saumya-Maheshwari
 
-👉Hi there, this is Saumya!
+  Hi there, this is Saumya!
 
 👉Junior, graduating in 2024 with a B.Tech. degree in Computer Science and Engineering.
 
