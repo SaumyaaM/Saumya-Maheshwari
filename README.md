@@ -2,7 +2,7 @@
 
   Hi there, this is Saumya!
 
-👉Junior, graduating in 2024 with a B.Tech. degree in Computer Science and Engineering.
+👉Senior, graduating in 2024 with a B.Tech. degree in Computer Science and Engineering.
 
 👉Passionate about Web Development, DSA, Blockchain and Cryptocurrency.
 
