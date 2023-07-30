@@ -1,16 +1,16 @@
 # Saumya-Maheshwari
 
-  Hi there, this is Saumya!
+  Hey there, this is Saumya!
 
 👉Senior, graduating in 2024 with a B.Tech. degree in Computer Science and Engineering.
 
-👉Passionate about Web Development, DSA, Blockchain and Cryptocurrency.
+👉Learning and Practising Web Development & Android App Development.
 
-👉More passionate about learning everything irrelevant to my core courses(like psychology📚, finance💸, food🥗, health🧘 and lifestyle).
+👉More passionate about psychology, finance, food, health and lifestyle.
 
-👉Experience in Web Development- HTML, CSS, Javascript and Bootstrap4.
+👉Experience in Web Development- HTML, CSS, Javascript and React.
 
-👉Ambivert, whenever free, you will always find me either eating or walking.
+👉Introvert, whenever free, you will always find me either eating or walking.
 
 👉And, for the future...
 
